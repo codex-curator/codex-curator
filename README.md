@@ -38,6 +38,7 @@ Upload → Aurora (intake) → Nova (Gemini enrichment) → Flux (L4 GPU upscale
 |-------------|-----|
 | The Entropy of Recursion | [10.5281/zenodo.18436975](https://doi.org/10.5281/zenodo.18436975) |
 | The Density Imperative | [10.5281/zenodo.18667735](https://doi.org/10.5281/zenodo.18667735) |
+| The Density Imperative, Refined: A 2×2 Ablation | [10.5281/zenodo.20162589](https://doi.org/10.5281/zenodo.20162589) |
 | Cognitive Nutrition | [10.5281/zenodo.18667742](https://doi.org/10.5281/zenodo.18667742) |
 | Perceptual Compute Offloading | [10.5281/zenodo.18667749](https://doi.org/10.5281/zenodo.18667749) |
 | GCP-Robotics SDK v2.0.1 | [10.5281/zenodo.18668113](https://doi.org/10.5281/zenodo.18668113) |
