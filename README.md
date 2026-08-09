@@ -43,7 +43,7 @@ Upload → Aurora (intake) → Nova (Gemini enrichment) → Flux (L4 GPU upscale
 | Perceptual Compute Offloading | [10.5281/zenodo.18667749](https://doi.org/10.5281/zenodo.18667749) |
 | GCP-Robotics SDK v2.0.1 | [10.5281/zenodo.18668113](https://doi.org/10.5281/zenodo.18668113) |
 
-7 Zenodo DOIs · 3 U.S. Provisional Patents filed
+Selected publications above · full list with DOIs at [lbrain.ai/papers.html](https://lbrain.ai/papers.html) · 3 U.S. Provisional Patents filed
 
 ---
 
